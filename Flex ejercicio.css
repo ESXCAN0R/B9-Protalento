@@ -1,0 +1,13 @@
+.body{
+padding: 0%;
+margin: 0;
+box-sizing: 0;
+}
+.Box1{ 
+    background-color: rgb(122, 105, 138);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    }
