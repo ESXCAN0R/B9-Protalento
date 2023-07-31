@@ -1,4 +1,28 @@
-.Prueba1{background-color: chocolate;
-back
+.body{
+    padding: 0%;
+    margin: 0;
+    box-sizing: 0;
+    }
+
+.General{ background-color:rgba(52, 136, 233, 0.301)}
+
+.Titulo{background-color: rgb(68, 144, 231);
+    display: flex;
+    justify-content: center;
+    align-items: center;  
 }
+
+.Profile1{background-color: rgb(68, 144, 231);
+    display: inline-flex;
+}
+
+.Profile2{background-color: rgb(68, 144, 231);
+    display: inline-flex;
+}
+ 
+.profile-description{
+    display: flex;
+}
+
+
 
